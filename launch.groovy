@@ -4,7 +4,7 @@
 MobileBase robot= ScriptingEngine.gitScriptRun("https://github.com/madhephaestus/Luna_copy.git", 
 								"loadRobot.groovy", 
 	["https://github.com/madhephaestus/Luna_copy.git",
-\t"Luna_copy.xml",
+	"Luna_copy.xml",
 	"GameController_22",
 	"midnight",
 	"Luna_copy"]);println robot
